@@ -23,3 +23,5 @@ A recreation of the standard C printf function, handling various format specifie
 - `%d` or `%i`Prints a signed integer  
 - `%u`Prints an unsigned integer  
 - `%x` or `%X`Prints an unsigned integer in hexadecimal format  
+
+<br>
