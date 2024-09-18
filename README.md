@@ -5,8 +5,6 @@
   </a>
   <h3 align="center">ft_printf</h3>
   Rebuild,from scratch, the C stdio function printf
-  <br>
-  <br>
 </div>
 
 <br>
